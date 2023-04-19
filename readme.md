@@ -20,3 +20,7 @@ python Jeu.py
 
 
 Le jeu vous invitera à entrer le nombre de tours à jouer, ainsi que les noms des joueurs. Les joueurs choisiront ensuite un personnage et commenceront à construire leurs phrases. Les joueurs peuvent accepter ou passer des mots proposés, ajouter des mots personnalisés ou terminer leurs phrases à tout moment. Une fois tous les tours terminés, le jeu déterminera le gagnant en fonction des scores accumulés.
+
+## Licence
+
+Ce projet est distribué sous la licence MIT. Vous êtes libre de l'utiliser, de le modifier et de le redistribuer selon les termes de la licence.
